@@ -17,4 +17,5 @@ No que trabalhamos no dia a dia temos uma necessidade de organizar e facilitar n
 ## Diagramas de Atividades
 
 **Diagrama de Atividade 00**
-![Diagrama de Atividade 00](/img/atividades/diagrama-atividade0.png)
+
+![Diagrama de Atividade 00](/diagrama-atividade0.png)
