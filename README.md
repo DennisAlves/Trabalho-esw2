@@ -18,7 +18,7 @@ No que trabalhamos no dia a dia temos uma necessidade de organizar e facilitar n
 
 **Diagrama de Atividade 00**
 
-![Diagrama de Atividade 00](/diagrama-atividade0.png)
+![Diagrama de Atividade 00](/imgs/diagrama-atividade0.png)
 
 ## Materias de apoio
 [Especificação de requisitos - Volere](http://www.volere.co.uk/pdf%20files/template14_ptbra.pdf)
